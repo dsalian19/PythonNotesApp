@@ -1,10 +1,13 @@
-Setup & Installation
-Make sure you have the latest version of Python installed.
-git clone <repo-url>
-pip install -r requirements.txt
+<b>Setup & Installation:</b>
+<br>
+  Make sure you have the latest version of Python installed.
+  <br>
+    git clone <repo-url>
+    <br>
+    pip install -r requirements.txt
 
-Running The App
-python main.py
+<b>Running The App</b><br>
+  python main.py
 
-Viewing The App
-Go to http://127.0.0.1:5000
+<b>Viewing The App</b><br>
+  Go to http://127.0.0.1:5000
